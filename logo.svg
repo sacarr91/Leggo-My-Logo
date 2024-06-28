@@ -1,5 +1,5 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
              <circle r="90" cx="150" cy="100" fill="blue" />
               <text 
-        x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="black" stroke="white" font-size="35">GBT</text>
+        x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="blue" stroke="white" font-size="75">ABC</text>
             </svg>
