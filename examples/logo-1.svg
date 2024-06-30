@@ -1,0 +1,5 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+             <rect width="190" height="190" x="55" y="5" style="fill:Pink" />
+              <text 
+        x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="Blue" stroke="White" font-size="75">EAC</text>
+            </svg>

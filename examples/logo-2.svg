@@ -1,0 +1,5 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+             <polygon points="1,105 200,1 290,190" fill="gray" />
+              <text 
+        x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="yellow" stroke="blue" font-size="75">svg</text>
+            </svg>
