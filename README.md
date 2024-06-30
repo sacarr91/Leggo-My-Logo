@@ -5,6 +5,10 @@
 
   ## Demo
   
+
+https://github.com/sacarr91/Leggo-My-Logo/assets/159084766/32b98e26-b56b-4919-a696-180244570704
+
+
   
   ## Installation
   `npm i` to download dependencies
